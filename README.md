@@ -180,8 +180,8 @@ The system analyzes user listening behavior from the Last.fm dataset and predict
 
 # 👨‍💻 Author
 
-Chhavi S Wadhwa
-Chetha Samrutha Vinod
-Greeshma N
+Chhavi S Wadhwa |
+Chetha Samrutha Vinod  |
+Greeshma N  |
 Harshitha P
 
